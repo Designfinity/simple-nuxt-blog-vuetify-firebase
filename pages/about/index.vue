@@ -7,5 +7,7 @@
 <style>
 .about-page {
     padding: 10px;
+    background: #ffffff;
+    color: #000000;
 }
 </style>
