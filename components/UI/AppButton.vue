@@ -21,10 +21,9 @@ export default {
 
 <style scoped>
 .button {
-  font: inherit;
   background-color: black;
   color: white;
-  padding: 5px;
+  padding: 6px 8px;
   cursor: pointer;
   border: 1px solid black;
 }
