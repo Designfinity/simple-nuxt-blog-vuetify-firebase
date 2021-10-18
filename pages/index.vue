@@ -1,7 +1,7 @@
 <template>
   <v-layout column justify-center align-center>
     <v-flex xs12 sm8 md6>
-      <div class="text-xs-center">
+      <div class="text-xs-left p-6 mb-4">
         <img src="/v.png" alt="Vuetify.js" class="mb-5" />
       </div>
       <v-card>
